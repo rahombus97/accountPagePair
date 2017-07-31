@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>atom / icons / icon-chevron-forward</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="atom-/-icons-/-icon-chevron-forward">
+            <g id="icon-chevron-back" transform="translate(0.615385, 0.500000)">
+                <rect id="icon-container" x="0" y="0" width="34" height="34"></rect>
+                <path d="M21.2452713,7.98906203 C21.5244625,7.70987081 21.5285079,7.26125788 21.25,6.98275 L21.25,6.98275 C20.9734204,6.7061704 20.5285852,6.70258144 20.2516668,6.9794999 L19.9418175,7.28934918 L10.7328052,16.4983615 C10.4557579,16.7754088 10.4545983,17.2234316 10.7313662,17.5001995 L20.0457449,26.8145783 L20.2530023,27.0218357 C20.5270494,27.2958827 20.9714921,27.2957579 21.25,27.01725 L21.25,27.01725 C21.5265796,26.7406704 21.5243827,26.2900494 21.2510973,26.0167639 L20.9823249,25.7479916 L12.2343333,17 L20.9596516,8.27468172 L21.2452713,7.98906203 Z" id="Shape" fill="#BDC3C7" fill-rule="nonzero" transform="translate(15.990595, 17.000155) scale(-1, 1) translate(-15.990595, -17.000155) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

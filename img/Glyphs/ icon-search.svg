@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>atom / icons / inactive / icon-search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="atom-/-icons-/-inactive-/-icon-search">
+            <g id="icon-search" transform="translate(0.000000, 0.500000)">
+                <rect id="Rectangle-path" x="0" y="0" width="23" height="23"></rect>
+                <path d="M16.3696972,15.2178735 L21.906309,20.7544853 C22.0934352,20.9416116 22.0934352,21.2450031 21.906309,21.4321293 C21.7191828,21.6192556 21.4157912,21.6192556 21.228665,21.4321293 L15.719849,15.9233133 C14.254557,17.3380475 12.2601616,18.2083333 10.0625,18.2083333 C5.5636805,18.2083333 1.91666667,14.5613195 1.91666667,10.0625 C1.91666667,5.5636805 5.5636805,1.91666667 10.0625,1.91666667 C14.5613195,1.91666667 18.2083333,5.5636805 18.2083333,10.0625 C18.2083333,12.0185784 17.5188675,13.8136234 16.3696972,15.2178735 Z M10.0625,17.25 C14.0320466,17.25 17.25,14.0320466 17.25,10.0625 C17.25,6.09295338 14.0320466,2.875 10.0625,2.875 C6.09295338,2.875 2.875,6.09295338 2.875,10.0625 C2.875,14.0320466 6.09295338,17.25 10.0625,17.25 Z" id="Shape" fill="#9DA3B4" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

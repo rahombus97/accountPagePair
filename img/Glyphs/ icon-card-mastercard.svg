@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="28px" viewBox="0 0 43 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>atom / icons / icon-card-mastercard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.6875,0.342882811 C4.3288951,1.68793835 5.375,3.72275075 5.375,6 C5.375,8.27724925 4.3288951,10.3120616 2.6875,11.6571172 C1.0461049,10.3120616 0,8.27724925 0,6 C0,3.72275075 1.0461049,1.68793835 2.6875,0.342882811 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="43" height="28" rx="2"></rect>
+        <filter x="-1.2%" y="-1.8%" width="102.3%" height="103.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="atom-/-icons-/-icon-card-mastercard">
+            <g>
+                <rect id="Rectangle-6" fill="#F4F6F7" x="0" y="0" width="43" height="28" rx="2"></rect>
+                <g id="Oval-5-+-Oval-5-Copy-+-Oval-5-Copy-3" transform="translate(9.406250, 6.666667)">
+                    <ellipse id="Oval-5" fill="#D8232A" cx="7.390625" cy="7.33333333" rx="7.390625" ry="7.33333333"></ellipse>
+                    <path d="M12.09375,12.9904505 C13.3715764,14.0375765 15.0101858,14.6666667 16.796875,14.6666667 C20.8786045,14.6666667 24.1875,11.3834215 24.1875,7.33333333 C24.1875,3.28324517 20.8786045,0 16.796875,0 C15.0101858,0 13.3715764,0.629090187 12.09375,1.67621614 C13.7351451,3.02127168 14.78125,5.05608408 14.78125,7.33333333 C14.78125,9.61058258 13.7351451,11.645395 12.09375,12.9904505 Z" id="Oval-5-Copy" fill="#ED9F2D"></path>
+                    <g id="Rectangle-12" transform="translate(9.406250, 1.333333)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#D8232A" xlink:href="#path-1"></use>
+                        <path d="M-0.671875,0.666666667 L6.046875,0.666666667 L6.046875,1.33333333 L-0.671875,1.33333333 L-0.671875,0.666666667 Z M-0.671875,2 L6.046875,2 L6.046875,2.66666667 L-0.671875,2.66666667 L-0.671875,2 Z M-0.671875,3.33333333 L6.046875,3.33333333 L6.046875,4 L-0.671875,4 L-0.671875,3.33333333 Z M-0.671875,4.66666667 L6.046875,4.66666667 L6.046875,5.33333333 L-0.671875,5.33333333 L-0.671875,4.66666667 Z M-0.671875,6 L6.046875,6 L6.046875,6.66666667 L-0.671875,6.66666667 L-0.671875,6 Z M-0.671875,7.33333333 L6.046875,7.33333333 L6.046875,8 L-0.671875,8 L-0.671875,7.33333333 Z M-0.671875,8.66666667 L6.046875,8.66666667 L6.046875,9.33333333 L-0.671875,9.33333333 L-0.671875,8.66666667 Z M-0.671875,10 L6.046875,10 L6.046875,10.6666667 L-0.671875,10.6666667 L-0.671875,10 Z M-0.671875,11.3333333 L6.046875,11.3333333 L6.046875,12 L-0.671875,12 L-0.671875,11.3333333 Z" fill="#ED9F2D" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+                <g id="Rectangle-6-Copy">
+                    <use fill-opacity="0" fill="#E5E5E5" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

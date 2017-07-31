@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>atom / icons / active / icon-favorite-active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="atom-/-icons-/-active-/-icon-favorite-active">
+            <g id="icon-favorite-active" transform="translate(0.500000, 0.750000)">
+                <rect id="Rectangle-path" x="0" y="0" width="29" height="29"></rect>
+                <path d="M14.6166311,5.86843778 C16.0176217,4.05934965 18.1478638,3.02083329 20.4547398,3.02083329 C24.4987894,3.02083329 27.7916667,6.25756987 27.7916667,10.2429505 C27.7916667,14.4949228 25.2335652,18.293309 20.9085672,21.7781627 C19.803084,22.6689024 18.6380379,23.4937372 17.3561782,24.3202375 C16.6418604,24.7808058 14.8208626,25.8966902 14.8383058,25.8856617 C14.6364645,26.0132756 14.3783956,26.0100285 14.179829,25.8773765 C14.2384011,25.9165055 12.3808008,24.7069848 11.657083,24.2138072 C10.3734578,23.3390806 9.20419865,22.4731624 8.09534571,21.5509103 C3.76764837,17.9514896 1.20833333,14.2101399 1.20833333,10.2429505 C1.20833333,6.25787721 4.50184247,3.02083329 8.54589044,3.02083329 C10.8524393,3.02083329 12.9826557,4.05933708 14.3838874,5.86829357 L14.5003151,6.01854196 L14.6166311,5.86843778 Z" id="Shape-Copy" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

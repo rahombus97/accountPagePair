@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>atom / icons / icon-chevron-circle-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="19" cy="19" r="19"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="atom-/-icons-/-icon-chevron-circle-right">
+            <g id="icon-chevron-circle-right">
+                <g id="circle" transform="translate(19.000000, 19.000000) rotate(-180.000000) translate(-19.000000, -19.000000) ">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#E0E0E0" stroke-width="1" cx="19" cy="19" r="18.5"></circle>
+                </g>
+                <polyline id="chevron-right" stroke="#94989E" stroke-width="2" transform="translate(17.619767, 18.239534) scale(-1, 1) rotate(-180.000000) translate(-17.619767, -18.239534) " points="14 11 21.2395343 18.4418834 14 25.4790687"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

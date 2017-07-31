@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="28px" viewBox="0 0 43 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>atom / icons / icon-card-amex</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="33.581543%" cy="18.9546131%" fx="33.581543%" fy="18.9546131%" r="100%" gradientTransform="translate(0.335815,0.189546),scale(0.651163,1.000000),rotate(90.000000),translate(-0.335815,-0.189546)" id="radialGradient-1">
+            <stop stop-color="#71C8F2" offset="0%"></stop>
+            <stop stop-color="#0071BD" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="43" height="28" rx="2"></rect>
+        <filter x="-1.2%" y="-1.8%" width="102.3%" height="103.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M9.84758457,14.605042 L10.7436522,12.6479925 L10.7629224,12.6479925 L11.6300846,14.605042 L9.84758457,14.605042 Z M9.9921116,11.3333333 L7.390625,16.6666667 L8.91297642,16.6666667 L9.45254401,15.4789916 L12.0251252,15.4789916 L12.5454225,16.6666667 L14.1159496,16.6666667 L11.5433684,11.3333333 L9.9921116,11.3333333 Z M14.713328,11.3333333 L14.713328,16.6666667 L16.129693,16.6666667 L16.129693,12.9243697 L16.1489632,12.9243697 L17.835112,16.6666667 L19.0009634,16.6666667 L20.6871121,12.8870215 L20.7063824,12.8870215 L20.7063824,16.6666667 L22.1227473,16.6666667 L22.1227473,11.3333333 L19.9933823,11.3333333 L18.4710309,15.0009337 L18.4517606,15.0009337 L16.842693,11.3333333 L14.713328,11.3333333 Z M23.452396,11.3333333 L23.452396,16.6666667 L28.6746395,16.6666667 L28.6746395,15.6806723 L24.9651123,15.6806723 L24.9651123,14.3734827 L28.2988692,14.3734827 L28.2988692,13.4621849 L24.9651123,13.4621849 L24.9651123,12.3193277 L28.5975584,12.3193277 L28.5975584,11.3333333 L23.452396,11.3333333 Z M31.3821126,13.8730159 L28.9829638,16.6666667 L30.6787477,16.6666667 L32.2107342,14.821662 L33.7138154,16.6666667 L35.5155857,16.6666667 L33.116437,13.8804855 L35.322883,11.3333333 L33.6656397,11.3333333 L32.268545,13.0364146 L30.9196261,11.3333333 L29.1660314,11.3333333 L31.3821126,13.8730159 Z" id="path-4"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="atom-/-icons-/-icon-card-amex">
+            <g>
+                <rect id="Rectangle-6" fill="url(#radialGradient-1)" x="0" y="0" width="43" height="28" rx="2"></rect>
+                <g id="Rectangle-6-Copy">
+                    <use fill-opacity="0" fill="#E5E5E5" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="AMEX">
+                    <use fill-opacity="0" fill="#1793C0" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <use fill="black" fill-opacity="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

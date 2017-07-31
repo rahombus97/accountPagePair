@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>atom / icons / icon-socialorb-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="41" height="41"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="atom-/-icons-/-icon-socialorb-facebook">
+            <g id="atom-/-icons-/-icon-facebook">
+                <g id="icon-container" opacity="0">
+                    <use fill-opacity="0.3" fill="#0456FD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#0456FD" stroke-width="1" x="0.5" y="0.5" width="40" height="40"></rect>
+                </g>
+                <g id="icon-facebook" transform="translate(3.000000, 3.000000)">
+                    <path d="M0,17.5 C0,7.8350164 7.8350164,0 17.5,0 C27.1649836,0 35,7.8350164 35,17.5 C35,27.1649836 27.1649836,35 17.5,35 C7.8350164,35 0,27.1649836 0,17.5 Z" id="back" fill="#3B5998"></path>
+                    <path d="M19.3240506,27.7896184 L19.3240506,18.2686945 L21.952242,18.2686945 L22.3005341,14.9877314 L19.3240506,14.9877314 L19.3285159,13.3455778 C19.3285159,12.4898521 19.4098212,12.0313347 20.6388905,12.0313347 L22.2819288,12.0313347 L22.2819288,8.75 L19.6533652,8.75 C16.4960377,8.75 15.3847403,10.3416201 15.3847403,13.0182246 L15.3847403,14.988103 L13.4166667,14.988103 L13.4166667,18.2690661 L15.3847403,18.2690661 L15.3847403,27.7896184 L19.3240506,27.7896184 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
